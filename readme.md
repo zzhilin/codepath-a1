@@ -21,7 +21,7 @@ Movie is an app that allows users to browse movies from the [The Movie Database 
 
 ### App Walkthrough GIF
 
-<img src='https://i.imgur.com/hUPJtD4.mp4' width=250><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jxrrtf4"  ><a href="//imgur.com/a/jxrrtf4">a1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>><br>
 
 ### Notes
 Figuring out how to complete the auto-layout and reinstalling ruby for cocoapods.
